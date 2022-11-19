@@ -1,6 +1,11 @@
 
 const tocaSom = (audioSelector) => {
   const AudioSelected = document.querySelector(audioSelector);
+  const allAudios = document.querySelectorAll('audio');
+  console.log(allAudios)
+  allAudios.forEach((audio) => {
+    audio.pause();
+  })
   AudioSelected.play();
 };
 
