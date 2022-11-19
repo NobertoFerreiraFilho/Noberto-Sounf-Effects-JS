@@ -4,7 +4,7 @@ Project developed as part of the Alura course "JavaScript para Web: Crie página
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **NobertoSoundEffect Javascript form**
+| :sparkles: Nome        | **NobertoSoundEffect Javascript keyboard**
 | :label: Tecnologias | JAVASCRIPT, HTML, CSS
 
 <p align="center">
